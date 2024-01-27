@@ -1,0 +1,634 @@
+.my-profile-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.my-profile-my-profile {
+  width: 100%;
+  height: 998px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.my-profile-line2 {
+  top: 338px;
+  left: 115.275146484375px;
+  width: 457px;
+  height: 1px;
+  position: absolute;
+}
+.my-profile-text {
+  top: 241px;
+  left: 114px;
+  color: rgba(0, 0, 0, 1);
+  width: 125px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-text02 {
+  top: 187px;
+  left: 290px;
+  color: rgba(131, 131, 131, 1);
+  width: 167px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-group7 {
+  top: 294px;
+  left: 117.27734375px;
+  width: 177px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.my-profile-text09 {
+  top: 4px;
+  left: 38px;
+  color: rgba(0, 0, 0, 1);
+  width: 139px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-vector {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 27px;
+  position: absolute;
+}
+.my-profile-edit-profile {
+  top: 123px;
+  left: 1087px;
+  width: 135px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.my-profile-text11 {
+  color: rgba(255, 255, 255, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-vector1 {
+  top: 5px;
+  left: 121px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+.my-profile-group29 {
+  top: 352px;
+  left: 112.0888671875px;
+  width: 1045.9111328125px;
+  height: 557.5239868164062px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: center;
+}
+.my-profile-group10 {
+  top: 0px;
+  left: 653.9111328125px;
+  width: 392px;
+  height: 501px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-profile-text13 {
+  left: 2.562091588973999px;
+  color: rgba(0, 0, 0, 1);
+  width: 389px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-text15 {
+  top: 75px;
+  left: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 247px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-text17 {
+  top: 228px;
+  left: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-text19 {
+  top: 372px;
+  left: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 327px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-text21 {
+  top: 407px;
+  left: 1px;
+  color: rgb(0, 0, 0);
+  width: 202px;
+  height: 200px;
+  position: absolute;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: "Montserrat";
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-text26 {
+  top: 262px;
+  left: 3px;
+  color: rgba(0, 0, 0, 1);
+  width: 176px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-text28 {
+  top: 109px;
+  left: 1px;
+  color: rgb(0, 0, 0);
+  width: 241px;
+  height: var(--dl-size-size-large);
+  position: absolute;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: "Montserrat";
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-text33 {
+  top: 195px;
+  left: 366.1884765625px;
+  color: rgba(0, 0, 0, 1);
+  width: 64px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-group28 {
+  top: 1px;
+  left: 0px;
+  width: 450.9111328125px;
+  height: 100%;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.my-profile-group26 {
+  top: 261px;
+  left: 0.1884765625px;
+  width: 437.72265625px;
+  height: 82px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.my-profile-nike1 {
+  top: 0px;
+  left: 355.72265625px;
+  width: 82px;
+  height: 82px;
+  opacity: 0.70;
+  position: absolute;
+  border-radius: 7px;
+}
+.my-profile-chipotle1 {
+  top: 0px;
+  left: 234.72265625px;
+  width: 82px;
+  height: 82px;
+  position: absolute;
+}
+.my-profile-group25 {
+  top: 0px;
+  left: 0px;
+  width: 81.86000061035156px;
+  height: 81.86000061035156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.my-profile-hm1 {
+  top: 18px;
+  left: 6px;
+  width: 70px;
+  height: 46px;
+  position: absolute;
+}
+.my-profile-starbies1 {
+  top: 0px;
+  left: 116.72265625px;
+  width: 82px;
+  height: 82px;
+  position: absolute;
+  border-radius: 7px;
+}
+.my-profile-text35 {
+  top: 70px;
+  left: 1.54443359375px;
+  color: rgba(0, 0, 0, 1);
+  width: 193px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-text37 {
+  left: 3.1884765625px;
+  color: rgba(0, 0, 0, 1);
+  width: 179px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-text39 {
+  top: 194px;
+  left: 22.9111328125px;
+  color: rgba(0, 0, 0, 1);
+  width: 428px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-text41 {
+  top: 193px;
+  left: 132.1884765625px;
+  color: rgba(0, 0, 0, 1);
+  width: 43px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-text43 {
+  top: 194px;
+  left: 265.1884765625px;
+  color: rgba(0, 0, 0, 1);
+  width: 70px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-group24 {
+  top: 105.52398681640625px;
+  left: 0px;
+  width: 438.1884765625px;
+  height: 83.47601318359375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.my-profile-ellipse5 {
+  top: 3.47601318359375px;
+  left: 357.1884765625px;
+  width: 81px;
+  height: 80px;
+  position: absolute;
+}
+.my-profile-ellipse2 {
+  top: 0px;
+  left: 0px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+}
+.my-profile-ellipse3 {
+  top: 0px;
+  left: 114.29443359375px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+}
+.my-profile-ellipse4 {
+  top: 0px;
+  left: 234.76708984375px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+}
+.my-profile-text45 {
+  top: 222.90753173828125px;
+  left: 3.0888671875px;
+  color: rgba(0, 0, 0, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-text47 {
+  top: 379px;
+  left: 0.9111328125px;
+  color: rgba(0, 0, 0, 1);
+  width: 142px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-text49 {
+  top: 521px;
+  left: 4.633544921875px;
+  color: rgba(0, 0, 0, 1);
+  width: 187px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-group27 {
+  top: 421px;
+  left: 0.9111328125px;
+  width: 195px;
+  height: 83px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.my-profile-spongebob1 {
+  top: 0px;
+  left: 114px;
+  width: 81px;
+  height: 81px;
+  position: absolute;
+  border-radius: 7px;
+}
+.my-profile-jurassicpark1 {
+  top: 2px;
+  left: 0px;
+  width: 81px;
+  height: 81px;
+  position: absolute;
+  border-radius: 7px;
+}
+.my-profile-text51 {
+  top: 351px;
+  left: 22.9111328125px;
+  color: rgba(0, 0, 0, 1);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-text53 {
+  top: 351px;
+  left: 130.9111328125px;
+  color: rgba(0, 0, 0, 1);
+  width: 59px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-text55 {
+  top: 351px;
+  left: 255.9111328125px;
+  color: rgba(0, 0, 0, 1);
+  width: 59px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-text57 {
+  top: 351px;
+  left: 381.9111328125px;
+  color: rgba(0, 0, 0, 1);
+  width: 25px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-profile-banner {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 164px;
+  display: flex;
+  position: absolute;
+  background: linear-gradient(180deg, rgba(199, 0, 0, 1) 0%, rgba(172, 28, 52, 0) 100%);
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.my-profile-bottom-gradient {
+  left: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 164px;
+  position: absolute;
+}
+.my-profile-frame1 {
+  top: 97px;
+  left: 109px;
+  width: 135px;
+  height: 135px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-profile-profilepic1 {
+  top: 0px;
+  left: 0px;
+  width: 135px;
+  height: 135px;
+  position: absolute;
+  border-radius: 67.5px;
+}
+.my-profile-navlink {
+  display: contents;
+}
+.my-profile-vector2 {
+  top: 56px;
+  left: 38px;
+  width: 21px;
+  height: 34px;
+  position: absolute;
+  text-decoration: none;
+}
