@@ -585,6 +585,41 @@
   font-stretch: normal;
   text-decoration: none;
 }
+
+.my-profile-text58 {
+  top: 515px;
+  left: 19.9111328125px;
+  color: rgba(0, 0, 0, 1);
+  width: 25px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.my-profile-text59 {
+  top: 515px;
+  left: 120.9111328125px;
+  color: rgba(0, 0, 0, 1);
+  width: 25px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
 .my-profile-banner {
   top: 0px;
   left: 0px;
